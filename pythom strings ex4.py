@@ -1,2 +1,2 @@
-txt="Hello,World"
+txt=" Hello World "
 x=txt.strip()

@@ -1,2 +1,1 @@
-class MyClass:
-  x = 5
+#include <iostream>
